@@ -733,7 +733,7 @@ margin-bottom: 16px;
    }
 
 .modal-form-div{
-    margin-bottom: 8px;
+    /* margin-bottom: 8px; */
     margin-bottom: 16px;
 }
 
@@ -770,7 +770,7 @@ margin-bottom: 4px;
 
 .modal-input-wrap-person{
     position: relative;
-
+    margin-bottom: 8px;
 }
 
 .modal-icon-person{
