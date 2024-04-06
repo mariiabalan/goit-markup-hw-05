@@ -729,8 +729,7 @@ margin-bottom: 16px;
 
 .modal-field{
     margin-top: 20px;
-    margin-bottom: 16px 
-
+    margin-bottom: 16px;
 }
 
 .modal-form-div{
@@ -770,6 +769,7 @@ margin-bottom: 4px;
 
 .modal-input-wrap-person{
     position: relative;
+
 }
 
 .modal-icon-person{
@@ -807,7 +807,7 @@ font-size: 12px;
 line-height: 1.17;
 letter-spacing: 0.04em;
 color: #8e8f99;
-display: flex;
+/* display: flex; */
 margin-top: 20px;
 }
 
